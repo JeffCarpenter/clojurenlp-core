@@ -19,7 +19,7 @@
                                    TypedDependency)
            (edu.stanford.nlp.parser.common ParserGrammar)
            (edu.stanford.nlp.parser.lexparser LexicalizedParser)
-           (edu.stanford.nlp.pipeline Annotation StanfordCoreNLP)
+           (edu.stanford.nlp.pipeline Annotation CoreDocument StanfordCoreNLP)
            (edu.stanford.nlp.ling CoreAnnotations$SentencesAnnotation
                                   CoreAnnotations$TextAnnotation
                                   CoreAnnotations$NamedEntityTagAnnotation
